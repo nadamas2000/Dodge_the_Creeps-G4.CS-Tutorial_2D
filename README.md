@@ -1,4 +1,4 @@
 # Dodge the Creeps!
-## Godot 4 RC5 C#
+## Godot 4 C#
 
 Tutorial 2D
